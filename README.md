@@ -1,10 +1,15 @@
 # Function key lock (Windows) 
 
 
+![Screenshot_2](https://user-images.githubusercontent.com/76086728/102328648-56051d80-3fad-11eb-8c33-4e2360c525fe.png)
+
+
 **How to use:**
 Double click the icon (of exe file) to run it.
 
 Download the exe file for hassle free usage...for enthusiasts I will recommend modifying the .ahk script to fulfill custom needs
+
+
 ![Screenshot_1](https://user-images.githubusercontent.com/76086728/102328417-0f172800-3fad-11eb-80a6-cbb15a8c1848.png)
 
 
