@@ -1,13 +1,11 @@
 # Fn lock based on autohotkey software (open source project) 
 
 (Tested only on windows 10)
+**Size: 1085 kb 
+(I was getting nearly 0% cpu usage when it was running...so it is very lightweight)
 
-**Purpose:**
-It was created for my needs on a laptop on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls. 
-I did not have the option to lock fn 
-1)by fn+capslock or fn+ esc 
-2)or by a software provided by the OEM 
-3)or in bios
+**How to use:**
+Double click the icon to run it. 
 
 **Features:**
 By this .exe file one can press these keys without Fn key to:
@@ -16,17 +14,22 @@ F2: decrease volume
 F3: increase volume
 F7: decrease brightness
 F8: increase brightness
-
-**How to use:**
-Double click the icon to run it. 
+**No need to reboot after running this app or even after closing it..no registry edits needed..just run and chill.
+ Mcafee antivirus (on my system) was not blocking it so I didn't have to turn antivirus off.
+ 
+**Purpose:**
+It was created for my needs on a laptop on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls. 
+I did not have the option to lock fn 
+1)by fn+capslock or fn+ esc 
+2)or by a software provided by the OEM 
+3)or in bios
 
 **Note:** 
-1) Copy the .exe file and place it in startup file so that you can use it without having to open manually.
-2) To close it click the arrow key (right hand side of taskbar) and close it from there.
-3) I had autohotkey preinstalled in my system.
+1) Copy the .exe file and place it in startup file (C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup) so that you can use it without having to open manually.
+2) Disable it from startup via Taskmanager.
+3) To close it click the arrow key (right hand side of taskbar) and close it from there.
+4) I had autohotkey preinstalled in my system.
 
-**Size: 1mb approx.** 
-(I was getting nearly 0% cpu usage when it was running...so it is very lightweight)
 
 **Credits:**
 Autohotkey community for providing the code chunks ...which I later modified and made this.
