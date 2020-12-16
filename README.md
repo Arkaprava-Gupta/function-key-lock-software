@@ -1,6 +1,7 @@
 # open-source-projects
 Fn lock software (Tested only on windows 10) based on autohotkey software (open source software) 
 
+
 **Purpose:**
 It was created for my needs on a laptop on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls. 
 I did not have the option to lock fn 
@@ -29,4 +30,4 @@ Double click the icon to run it.
 
 **Credits:**
 Autohotkey community for providing the code chunks ...which I later modified and made this.
-Icon is from the myasus app ...since i made it for my usage only ...will later modify it 
+Icon is from the myasus app ...since i made it for my usage only ...will later modify it. 
