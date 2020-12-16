@@ -3,6 +3,7 @@
 
 **How to use:**
 Double click the icon (of exe file) to run it.
+
 Download the exe file for hassle free usage...for enthusiasts I will recommend modifying the .ahk script to fulfill custom needs
 
 **Purpose:**
