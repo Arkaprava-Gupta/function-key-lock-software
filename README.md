@@ -10,7 +10,7 @@ I did not have the option to lock fn
 
 **Features:**
 By this .exe file one can press these keys without Fn key to:
-*F1: mute 
+F1: mute 
 F2: decrease volume
 F3: increase volume
 F7: decrease brightness
