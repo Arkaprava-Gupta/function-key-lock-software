@@ -11,7 +11,7 @@ Double click the icon (of exe file) to run it.
 (No setups needed to install it...to uninstall just delete the exe file ...it will be removed without any trace...)
 
 **Features:**
-By this .exe file one can press these keys without Fn key to:
+By this .exe file one can press these keys (listed below) without Fn key to:
 1) F1: mute 
 2) F2: decrease volume
 3) F3: increase volume
