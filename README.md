@@ -1,6 +1,6 @@
-# open-source-projects
-Fn lock software (Tested only on windows 10) based on autohotkey software (open source software) 
+# Fn lock based on autohotkey software (open source project) 
 
+(Tested only on windows 10)
 
 **Purpose:**
 It was created for my needs on a laptop on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls. 
