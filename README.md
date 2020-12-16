@@ -7,7 +7,8 @@
 (I was getting nearly 0% cpu usage when it was running...so it is very lightweight)
 
 **How to use:**
-Double click the icon to run it. 
+Double click the icon (of exe file) to run it.  
+(No setups needed to install it...to uninstall just delete the exe file ...it will be removed without any trace...)
 
 **Features:**
 By this .exe file one can press these keys without Fn key to:
