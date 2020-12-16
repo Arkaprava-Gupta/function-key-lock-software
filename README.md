@@ -31,7 +31,7 @@ It was created for my needs on a laptop on which I have to press the fn key and 
 I did not have the option to lock fn:
 1)by fn+capslock or fn+ esc 
 2)or by a software provided by the OEM 
-3)or in bios
+3)or in BIOS
 
 **Note:** 
 1) Copy the .exe file and place it in (C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup) 
