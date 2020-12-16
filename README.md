@@ -5,13 +5,10 @@
 
 
 **How to use:**
-Double click the icon (of exe file) to run it.
+1) Download the exe file (for hassle free usage)
+for enthusiasts I will recommend modifying the .ahk script to fulfill custom needs.
 
-Download the exe file for hassle free usage...for enthusiasts I will recommend modifying the .ahk script to fulfill custom needs
-
-
-
-
+2) Double click the icon (of exe file) to run it.
 
 **Purpose:**
 It was created for my needs on a laptop (Asus Tuf a15) on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls.
