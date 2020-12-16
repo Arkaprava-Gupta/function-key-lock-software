@@ -16,8 +16,11 @@ Download the exe file for hassle free usage...for enthusiasts I will recommend m
 **Purpose:**
 It was created for my needs on a laptop (Asus Tuf a15) on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls.
 I did not have the option to lock fn:
+
 1)by fn+capslock or fn+ esc 
+
 2)or by a software provided by the OEM 
+
 3)or in BIOS
 
 **Features:**
