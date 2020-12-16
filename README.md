@@ -1,6 +1,8 @@
 # Fn lock based on autohotkey software (open source project) 
 
 (Tested only on windows 10)
+
+
 **Size: 1085 kb 
 (I was getting nearly 0% cpu usage when it was running...so it is very lightweight)
 
