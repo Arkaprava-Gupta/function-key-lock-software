@@ -11,15 +11,15 @@ Double click the icon to run it.
 
 **Features:**
 By this .exe file one can press these keys without Fn key to:
-F1: mute 
-F2: decrease volume
-F3: increase volume
-F7: decrease brightness
-F8: increase brightness
+1) F1: mute 
+2) F2: decrease volume
+3) F3: increase volume
+4) F7: decrease brightness
+5) F8: increase brightness
 
 
 **No need to reboot after running this app or even after closing it..no registry edits needed..just run and chill.
- Mcafee antivirus (on my system) was not blocking it so I didn't have to turn antivirus off.
+ Mcafee antivirus (on my system) was not blocking it so I didn't have to turn antivirus off.**
  
 **Purpose:**
 It was created for my needs on a laptop on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls. 
