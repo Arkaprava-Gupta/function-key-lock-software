@@ -14,10 +14,17 @@ By this .exe file one can press these keys (listed below) without Fn key to:
 4) F7: decrease brightness
 5) F8: increase brightness
 
-No reboots, No need to enter BIOS, No need to remember complex hotkeys for fn lock
-No regedits,
-No complex setups procedures or complex UI,
-No need to turn antivirus off.
+**No reboots**
+
+**No need to enter BIOS**
+
+**No need to remember complex hotkeys for fn lock**
+
+**No regedits**
+
+**No complex setups procedures or complex UI**
+
+**No need to turn antivirus off.**
 
 **Purpose:**
 It was created for my needs on a laptop on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls. 
