@@ -24,7 +24,7 @@ By this .exe file one can press these keys (listed below) without Fn key to:
  
 **Purpose:**
 It was created for my needs on a laptop on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls. 
-'\n' I did not have the option to lock fn:
+I did not have the option to lock fn:
 1)by fn+capslock or fn+ esc 
 2)or by a software provided by the OEM 
 3)or in bios
