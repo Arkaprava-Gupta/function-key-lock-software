@@ -1,10 +1,14 @@
-# Function key lock (Windows)
-
-**Size: 1085 kb** 
-(I was getting nearly 0% cpu usage when it was running...so it is very lightweight)
+# Function key lock (Windows) 
 
 **How to use:**
 Double click the icon (of exe file) to run it.  
+
+**Purpose:**
+It was created for my needs on a laptop on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls.
+I did not have the option to lock fn:
+1)by fn+capslock or fn+ esc 
+2)or by a software provided by the OEM 
+3)or in BIOS
 
 **Features:**
 By this .exe file one can press these keys (listed below) without Fn key to:
@@ -23,13 +27,10 @@ By this .exe file one can press these keys (listed below) without Fn key to:
 5) No complex setups procedures or complex UI
 6) No need to turn antivirus off
 7) No ads or trial end msgs
-
-**Purpose:**
-It was created for my needs on a laptop on which I have to press the fn key and F1-F3 or F7-F8 keys for volume or brightness controls. 
-I did not have the option to lock fn:
-1)by fn+capslock or fn+ esc 
-2)or by a software provided by the OEM 
-3)or in BIOS
+8) Size 1085 kb ...will not eat RAM like google chrome.
+9) No need to provide personal data, No privacy breaches and no internet needed (will never ask for updates).
+10) Not a Chinese app/software.
+11) Will not ruin your keyboard like other apps.
 
 **Note:** 
 1) Copy the .exe file and place it in (C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup) 
