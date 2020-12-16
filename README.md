@@ -16,6 +16,8 @@ F2: decrease volume
 F3: increase volume
 F7: decrease brightness
 F8: increase brightness
+
+
 **No need to reboot after running this app or even after closing it..no registry edits needed..just run and chill.
  Mcafee antivirus (on my system) was not blocking it so I didn't have to turn antivirus off.
  
