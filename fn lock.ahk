@@ -223,3 +223,4 @@ F7::BS.SetBrightness(-10)
 F1:: Send, {Volume_Mute}
 F2:: Send, {Volume_down}
 F3:: Send, {Volume_up}
+Home::Suspend
